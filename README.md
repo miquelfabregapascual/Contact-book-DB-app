@@ -1,4 +1,4 @@
-# Contact book DB app
+# Contact book DB app - By Miquel
 
 Manage your contacts efficiently with this Android application. Create, edit, and delete contacts seamlessly with a user-friendly interface.
 
@@ -47,6 +47,4 @@ To run the app:
 
 Alternatively, you can download the [APK file](app-debug.apk) directly to your Android device and install it.
 
-## Contribution:
 
-Contributions to this project are welcome! Feel free to submit bug fixes, feature enhancements, or suggestions via pull requests.
